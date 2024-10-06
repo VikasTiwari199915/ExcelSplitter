@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. All rights reserved.&#10;File : &amp;#36;file.fileName, Last Modified on : &amp;#36;file.lastModified&#10;Created by Vikas Tiwari.&#10;Do not copy/modify without permission. &#10;For any contact email at Vikastiwari199915@gmail.com " />
+    <option name="myName" value="Vikas Tiwari" />
+  </copyright>
+</component>
